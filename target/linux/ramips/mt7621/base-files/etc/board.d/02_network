@@ -64,6 +64,7 @@ ramips_setup_interfaces()
 		;;
 	asus,rt-ac65p|\
 	asus,rt-ac57u|\
+	asus,rt-ac1200gu|\
 	asus,rt-ac85p|\
 	iptime,a6ns-m|\
 	mikrotik,rb750gr3|\
@@ -196,6 +197,7 @@ ramips_setup_macs()
 		;;
 	alfa-network,quad-e4g|\
 	asus,rt-ac57u|\
+	asus,rt-ac1200gu|\
 	d-team,newifi-d2|\
 	d-team,pbr-m1|\
 	elecom,wrc-1167ghbk2-s|\
